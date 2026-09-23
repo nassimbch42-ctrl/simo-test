@@ -1,0 +1,16 @@
+bin/
+obj/
+.vs/
+.idea/
+TestResults/
+coverage/
+artifacts/
+logs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.simo.json
+*.simo.log
+.DS_Store
+Thumbs.db

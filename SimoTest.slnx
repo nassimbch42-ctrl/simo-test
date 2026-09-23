@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/SimoTest.Core/SimoTest.Core.csproj" />
+  <Project Path="src/SimoTest.CLI/SimoTest.CLI.csproj" />
+</Solution>
